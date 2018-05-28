@@ -23,6 +23,8 @@ class Solution(object):
             i = x
             x += c
 
+
+
         return res2
 
 
