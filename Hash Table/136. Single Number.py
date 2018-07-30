@@ -36,7 +36,7 @@ class Solution(object):                 # O(N), O(N)
 sol = Solution()
 
 
-print (sol.singleNumber2([2,1,5,2,5,8]))
+print (sol.singleNumber2([2,1,5,2,5,8,1]))
 
 
 
