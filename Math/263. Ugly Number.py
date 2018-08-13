@@ -7,9 +7,7 @@ class Solution:
 
         import math
 
-        if num < 0:
-            return False
-        if num == 0:
+        if num <= 0:
             return False
 
         while num != 1:
